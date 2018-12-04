@@ -1,2 +1,2 @@
 # CSCI3383 Algorithms Final Project 
-# Search Alg Visualization using networkx for graph creation and Matplotlib for Animation
+# Search Alg Visualization using Networkx for graph creation and Matplotlib for animation
